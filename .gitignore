@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Experiment checkpoints & logs
+save/
+*.pth
+*.pth.tar
+*.pt
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+torch
+omegaconf
+librosa
+torchaudio
+einops
+simclr
+torch-audiomentations
